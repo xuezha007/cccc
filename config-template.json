@@ -1,9 +1,9 @@
 {
-  "open_ai_api_key": "YOUR API KEY",
+  "open_ai_api_key": "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",
   "model": "gpt-3.5-turbo",
   "proxy": "",
   "use_azure_chatgpt": false,
-  "single_chat_prefix": ["bot", "@bot"],
+  "single_chat_prefix": [""],
   "single_chat_reply_prefix": "[bot] ",
   "group_chat_prefix": ["@bot"],
   "group_name_white_list": ["ChatGPT测试群", "ChatGPT测试群2"],
